@@ -1,0 +1,72 @@
+body {background-color: gold;}
+
+#body {
+		align-content: center;
+	    position: relative;
+	    text-align: left;
+	    font-family: fantasy;
+	    font-size: 20px;
+	    text-align: justify;
+	    margin-left: 100px;
+	    margin-right: 100px;
+	    width: 80%;
+	    height: auto;
+}
+
+#name {
+    position: relative;
+    text-align: left;
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 40px;
+	color: black;
+}
+
+	.fa {
+	  padding: 6px;
+	  width: 15%;
+	  height: 100%;
+	  text-align: center;
+	}
+	.fa:hover {
+	  opacity: 0.3;
+	}
+	.fa-facebook {
+	  background-color: black;
+	  color: gold;
+	}
+	.fa-instagram {
+	  background-color: black;
+	  color: gold;
+	}
+	.fa-twitter {
+	  background-color: black;
+	  color: gold;
+	}
+	.fa-google {
+	  background-color: black;
+	  color: gold;
+	}
+	.fa-linkedin {
+	  background-color: black;
+	  color: gold;
+	}
+	.fa-youtube {
+	  background-color: black;
+	  color: gold;
+	}
+
+img {
+  border: 10px solid #100;
+  width: 200px;
+  height: 200px;
+}
+
+#table {
+	border: none;
+	width: 90%;
+}
+
+#td {
+	width: 25%;
+}
